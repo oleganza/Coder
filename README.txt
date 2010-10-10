@@ -1,4 +1,4 @@
-coder.rb - NSCoding-inspired library for encoding ruby object graphs. Also includes JSCoder - encoder which decodes objects into a javascript function.
+coder.rb - NSCoding-inspired library for encoding ruby object graphs. Also includes JSCoder - encoder which decodes objects into a javascript function. See the examples in the bottom of the file. Or simply run it.
 
 Author: Oleg Andreev <oleganza@gmail.com>
 Updated: October 10, 2010
